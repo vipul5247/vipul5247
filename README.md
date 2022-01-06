@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 This is Vipul Vaibhav, a final year engineering student studying in The LNM Institute of Information Technology, Jaipur.
+😄 This is Vipul Vaibhav, a data scientist working in ZS.
  I am dexterous with Data Science- Machine Learning, Deep Learning, Computer Vision and NLP with sublime grasp on ElectronJS also.
  Lets catch up and discuss if you have some project we could collaborate on!
  
