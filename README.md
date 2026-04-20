@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄 This is Vipul Vaibhav, a data scientist working in ZS.
- I am dexterous with Data Science- Machine Learning, Deep Learning, Computer Vision and NLP with sublime grasp on ElectronJS also.
- Lets catch up and discuss if you have some project we could collaborate on!
- 
- Why not connect over linkedin: https://linkedin.com/in/vipul5247
+😄 This is Vipul Vaibhav, an AI data scientist with 5+ YoE. Interested in the fascinating new Agentic and AI research works and getting hands dirty with working on them :)
+
+Why not connect over linkedin: https://linkedin.com/in/vipul5247
  
  
